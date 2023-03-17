@@ -4,5 +4,5 @@ The Repositories
 
 - AuthLambda
 - AccountLambda
-- SocketChatLambda
-- Frontend
+- SocketChatLambda:
+- Front-end:
