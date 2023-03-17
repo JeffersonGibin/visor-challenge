@@ -2,7 +2,7 @@
 
 The Repositories
 
-- AuthLambda
-- AccountLambda
+- AuthLambda:
+- AccountLambda:
 - SocketChatLambda:
 - Front-end:
