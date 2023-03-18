@@ -3,6 +3,6 @@
 The Repositories
 
 - AuthLambda:
-- AccountLambda:
-- SocketChatLambda:
+- [https://github.com/JeffersonGibin/visor-account-lmb-api](AccountLambda)
+- SocketChatLambda
 - Front-end:
