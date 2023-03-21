@@ -39,7 +39,7 @@ skills in this exercise but take into consideration
 ## The Repositories
 
  #### Front-end:
-- [Front-end](https://github.com/JeffersonGibin/visor-chat-webapp)
+- [Web-app](https://github.com/JeffersonGibin/visor-chat-webapp)
  #### Back-end:
 - [Account Lambda](https://github.com/JeffersonGibin/visor-account-lmb-api)
 - [Auth Lambda](https://github.com/JeffersonGibin/visor-auth-lmb-api)
