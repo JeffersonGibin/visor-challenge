@@ -12,16 +12,12 @@ This project is part of *Visor's  recruiting process*. Below you can find a desc
 -send messages;
 -receive answer messages every time a message is sent.
 
-**Note:** The complexity of the development is up to the developer's capabilities and knowledge. The way the
-challenge is tackled will determine the participant's level and role.
+**Note:** The complexity of the development is up to the developer's capabilities and knowledge. The way the challenge is tackled will determine the participant's level and role.
 
 **There are a few restrictions:**
 - only use JavaScript & Javascript frameworks;
 - must have back-end and front-end logic;
-- if a database is created for this purpose, it
-should be a non-relation database.
-Besides this, feel free to make the best of your
-skills in this exercise but take into consideration
+- if a database is created for this purpose, it should be a non-relation database. Besides this, feel free to make the best of your skills in this exercise but take into consideration.
 
 
 **Some tips:**
@@ -39,8 +35,8 @@ skills in this exercise but take into consideration
 ## The Repositories
 
  #### Front-end:
-- [Web-app](https://github.com/JeffersonGibin/visor-chat-webapp)
+- [Web-app](https://github.com/JeffersonGibin/visor-chat-webapp): Front-end of project.
  #### Back-end:
-- [Account Lambda](https://github.com/JeffersonGibin/visor-account-lmb-api): Service to create a count
-- [Auth Lambda](https://github.com/JeffersonGibin/visor-auth-lmb-api): Service to authenticate users
-- [Socket Chat Lambda](https://github.com/JeffersonGibin/visor-chat-lmb-socket)
+- [Account Lambda](https://github.com/JeffersonGibin/visor-account-lmb-api): service to create a count.
+- [Auth Lambda](https://github.com/JeffersonGibin/visor-auth-lmb-api): service to authenticate users.
+- [Socket Chat Lambda](https://github.com/JeffersonGibin/visor-chat-lmb-socket): service to chat with AI.
