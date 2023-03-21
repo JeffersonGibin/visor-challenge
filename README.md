@@ -4,8 +4,7 @@ This project is part of *Visor's  recruiting process*. Below you can find a desc
 
 ## Description Challenge:
 
-For testing the participant capabilities as a full-stack web developer we propose the
-development of a simple chat application. The chat app should be able to send messages through an input area, then draw those same messages in a chat as well as the automatic answers from the algorithm.
+ Develop a chat app should be able to send messages through an input area, then draw those same messages in a chat as well as the automatic answers from the algorithm.
 
 
 ### What it needs to do:
