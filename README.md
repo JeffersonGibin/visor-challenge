@@ -41,6 +41,6 @@ skills in this exercise but take into consideration
  #### Front-end:
 - [Web-app](https://github.com/JeffersonGibin/visor-chat-webapp)
  #### Back-end:
-- [Account Lambda](https://github.com/JeffersonGibin/visor-account-lmb-api)
-- [Auth Lambda](https://github.com/JeffersonGibin/visor-auth-lmb-api)
+- [Account Lambda: Service to create a count](https://github.com/JeffersonGibin/visor-account-lmb-api)
+- [Auth Lambda: Service to authenticate users](https://github.com/JeffersonGibin/visor-auth-lmb-api)
 - [Socket Chat Lambda](https://github.com/JeffersonGibin/visor-chat-lmb-socket)
