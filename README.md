@@ -2,7 +2,7 @@
 
 This project is part of *Visor's  recruiting process*. Below you can find a description of the challenge, the architecture I used and all the warehouses involved.
 
-## Description Challenge:
+## Challenge:
 
  Develop a chat app should be able to send messages through an input area, then draw those same messages in a chat as well as the automatic answers from the algorithm.
 
