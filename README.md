@@ -28,8 +28,7 @@ skills in this exercise but take into consideration
 - write clean code;
 - create a well organised project;
 - use good code practices;
-- make sure the logic is explained in the best way
-possible.
+- make sure the logic is explained in the best way possible.
 
 
 
