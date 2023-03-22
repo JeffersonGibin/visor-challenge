@@ -53,7 +53,7 @@ To register you only need your name, email and a password. The password must be 
 
 
 
-## The Repositories
+## Repositories
 
  #### Front-end:
 - [Web-app](https://github.com/JeffersonGibin/visor-chat-webapp): Front-end of project.
