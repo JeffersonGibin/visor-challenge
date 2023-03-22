@@ -30,6 +30,8 @@ This project is part of *Visor's  recruiting process*. Below you can find a desc
 
 ## Architecture Project
 
+![image](https://user-images.githubusercontent.com/6215779/226993622-4663a5d3-a7e8-484c-8686-73666855e4cf.png)
+
 
 
 ## The Repositories
