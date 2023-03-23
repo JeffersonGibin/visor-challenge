@@ -33,6 +33,16 @@ This project is part of *Visor's  recruiting process*. Below you can find a desc
 ![image](https://user-images.githubusercontent.com/6215779/226993622-4663a5d3-a7e8-484c-8686-73666855e4cf.png)
 
 
+Below you will find an image detailing a little
+about the architecture of the project.
+
+The objective arose from the need to experiment as much as possible with the applications and try to apply
+Twelve Factory App. If you don't know what is [go here](https://12factor.net/)
+
+I can tell you that applying all techniques was impossible because time was short. But you can see that we have
+an authentication service, service to create accounts, service to work with socket and a front-end
+who is responsible for consuming all of this.
+
 ## Platform
 
 ## Sign-in
