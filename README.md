@@ -34,7 +34,9 @@ Below you will find an image detailing a little
 about the architecture of the project.
 
 
-This architecture came from the idea of ​​applying the Twelve Factory App. If you don't know what is [visit here](https://12factor.net/)
+This architecture came from the idea of applying the Twelve Factory App.
+
+If you don't know what is [visit here](https://12factor.net/)
 
 I can tell you that applying all techniques was impossible because time was short. But you can see that we have
 an authentication service, service to create accounts, service to work with socket and a front-end
