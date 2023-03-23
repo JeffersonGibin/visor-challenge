@@ -9,8 +9,9 @@ This project is part of *Visor's  recruiting process*. Below you can find a desc
 
 ### What it needs to do:
 - write messages;
--send messages;
--receive answer messages every time a message is sent.
+- send messages;
+- receive answer
+- messages every time a message is sent.
 
 **Note:** The complexity of the development is up to the developer's capabilities and knowledge. The way the challenge is tackled will determine the participant's level and role.
 
