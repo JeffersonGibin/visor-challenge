@@ -47,9 +47,9 @@ This project is part of *Visor's  recruiting process*. Below you can find a desc
 To register you only need your name, email and a password. The password must be 6 characters long and must consist of numbers and lowercase letters.
 
 
-## Home
+## Chat
 
-![image](https://user-images.githubusercontent.com/6215779/227003388-ea2ceb44-538e-4354-b913-6f5c82f68165.png)
+![image](https://user-images.githubusercontent.com/6215779/227083970-e274e11c-7a8f-4c2e-87b0-0d43130c7a94.png)
 
 
 
