@@ -45,11 +45,11 @@ who is responsible for consuming all of this.
 
 ## Platform
 
-## Sign-in
+### Sign-in
 
 ![image](https://user-images.githubusercontent.com/6215779/227002963-db455c08-83ce-44e5-b79b-894646d7031c.png)
 
-## Sign-up
+### Sign-up
 
 ![image](https://user-images.githubusercontent.com/6215779/227003233-5bbb9f42-12f6-4e35-897c-4cd887e1b596.png)
 
@@ -57,10 +57,9 @@ who is responsible for consuming all of this.
 To register you only need your name, email and a password. The password must be 6 characters long and must consist of numbers and lowercase letters.
 
 
-## Chat
+### Chat
 
 ![image](https://user-images.githubusercontent.com/6215779/227083970-e274e11c-7a8f-4c2e-87b0-0d43130c7a94.png)
-
 
 
 ## Repositories
